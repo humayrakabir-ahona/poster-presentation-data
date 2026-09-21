@@ -8,14 +8,14 @@ Welcome to the supplementary repository for my poster presented at Biology & Bio
 We investigated ferroptosis as a potential vulnerability in refractory cancers using literature synthesis and public-dataset analysis of ferroptosis-associated gene expression and clinical data. The analyses identified distinct ferroptosis-associated patterns and an exploratory, non-significant association with overall survival in TCGA-LUAD (log-rank P = 0.129; HR = 0.80, 95% CI 0.59–1.07), generating hypotheses for further investigation.
 
 ## Repository Contents
-* `Poster_Presentation.pdf`: A high-resolution digital copy of the printed poster.
-* `dataset.csv`: The primary data used for our analysis.
+* `Poster.pdf`: A high-resolution digital copy of the printed poster.
+* `dataset`: The Literature-derived Public dataset evidence used for our analysis.
 * `analysis_tools/`: A folder containing the scripts used to generate the charts.
-* `supplementary_graphs.pdf`: Extra visualizations that did not fit on the physical poster.
+* `Figures_&_Graphs`: Extra visualizations that did not fit on the physical poster.
 
 ##  How to Use the Data and Tools
 To explore the dataset:
-1. Download the `dataset.csv` file.
+1. Download the `dataset` file.
 2. Open it using Excel, Python, or R. 
  "Note that missing values are labeled as 'NA'
 
@@ -27,7 +27,7 @@ To run the analysis tools:
 
 ## Citation
 If you use this data or code in your own research, please cite this poster:
-Ahona,Humayra.2026.TARGETING THE UN-TARGETABLE : A Ferroptotic Approach to Refractory Cancers Presented at Biology & Bioinformatics Olympiad, Chittagong, Bangladesh.
+Ahona,H.K.2026.TARGETING THE UN-TARGETABLE : A Ferroptotic Approach to Refractory Cancers Presented at Biology & Bioinformatics Olympiad 3.0 , Chittagong, Bangladesh.
 
 ## Contact
  HUMAYRA KABIR AHONA
